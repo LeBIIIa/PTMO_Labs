@@ -1,0 +1,22 @@
+<resources>
+  <string name="app_name">PTMO_Labs</string>
+  <string name="my_name">Denys Skrypnyk KI-43</string>
+  <string name="title_tab1">Lab1-2</string>
+  <string name="title_tab2">Lab3</string>
+  <string name="title_tab3">Lab4</string>
+  <string name="title_tab4">Lab5</string>
+  <string name="title_tab5">Lab6</string>
+  <string name="university_prompt">Choose a university building</string>
+  <string name="btn_test_text">Test External Storage</string>
+  <string name="message_label_text">Message:</string>
+  <string name="rmessage_label_text">Read message:</string>
+  <string name="button2_text">Back</string>
+
+  <string name="nameLabel">Name:</string>
+  <string name="companyLabel">Company name:</string>
+  <string name="progLangLabel">Programming languages:</string>
+  <string name="versionLabel">Latest version:</string>
+  <string name="platformLabel">SupportedPlatforms:</string>
+  <string name="marketLabel">Market share:</string>
+  <string name="btn_submit_text">Submit</string>
+</resources>
